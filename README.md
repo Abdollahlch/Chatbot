@@ -6,7 +6,7 @@ This is a source code to build a WhatsApp bot using OpenAI bot and Node.js. The 
 NOTE: DON'T MESS UP WITH INDEX.JS FILE. <br>
 
 # How to Install? 
-$ git clone https://github.com/harshitethic/whatsapp-chatgpt <br>
+$ git clone https://github.com/abdolchger/CHATBOT-WHATSAPP <br>
 $ cd whatsapp-chatgpt <br>
 $ npm install <br>
 $ node index.js <br>
@@ -20,7 +20,7 @@ Visit: https://harshitethic.in <br>
 Visit: https://beta.openai.com/account/api-keys
 
 <div align="center">
-  <a href="https://www.instagram.com/harshitethic/">
-    <img src="https://img.shields.io/badge/Follow%20%40harshitethic-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
+  <a href="https://www.instagram.com/abdellahlchger13/">
+    <img src="https://img.shields.io/badge/Follow%20%40abdellahlchger13-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
   </a>
 </div>
