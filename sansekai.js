@@ -73,9 +73,9 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
                     let prompt_template =
                         "I am artificial intelligence " +
                         BOT_NAME +
-                        " developed by a Harshit Sharma.\n\nHuman: Hi. How are you?\n" +
+                        " developed by abdolchger.\n\nHuman: Hi. How are you?\n" +
                         BOT_NAME +
-                        ": I'm well. How can I help you?\nHuman: " +
+                        ": I'm well if you follow me link:https://instagram.com/abdellahlchger13. How can I help you?\nHuman: " +
                         budy +
                         "\n" +
                         BOT_NAME +
